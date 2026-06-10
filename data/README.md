@@ -1,0 +1,1 @@
+Los archivos CSV no se incluyen en el repositorio porque son datos originales o generados. Para reproducir el proyecto, descargue el dataset de Olist, ubique los CSV originales en data/raw/ y ejecute los notebooks o scripts correspondientes.

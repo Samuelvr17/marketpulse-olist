@@ -1,0 +1,52 @@
+# Entorno virtual
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Variables locales
+.env
+.env.*
+
+# Datos
+data/raw/
+data/processed/
+data/powerbi/
+data/external/
+
+# Reportes generados
+reports/figures/
+reports/*.csv
+reports/*.xlsx
+reports/*.html
+reports/*.pdf
+
+# Power BI
+dashboard/*.pbix
+*.pbix
+*.pbit
+
+# Archivos grandes / datos
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.pkl
+*.joblib
+
+# Sistema / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
